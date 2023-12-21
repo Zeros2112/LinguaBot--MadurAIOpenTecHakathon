@@ -148,7 +148,7 @@ This Python code defines a set of tools utilizing different APIs for various pur
 
 - **Description:** Post a message on Twitter.
 - **Input Schema:** `TwitterInteractionInput`
-- **Usage:** `post_on_twitter(input_data: TwitterInteractionInput) -> str``
+- **Usage:** `post_on_twitter(input_data: TwitterInteractionInput) -> str`
 
 ## Usage
 
